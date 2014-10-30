@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Settings, should always be in the overflow -->
+    <item
+        android:id="@+id/connectwithGPlus"
+        android:showAsAction="collapseActionView"
+        android:title="@string/connectwithGPlus"/>
+    <item
+        android:id="@+id/connectwithFB"
+        android:showAsAction="collapseActionView"
+        android:title="@string/connectwithFB"/>
+    <item
+        android:id="@+id/action_settings"
+        android:showAsAction="collapseActionView"
+        android:title="@string/action_settings"/>
+
+</menu>

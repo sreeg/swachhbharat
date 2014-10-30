@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/pref_user_profile_settings" >
+        <ListPreference
+            android:key="prefLineManId"
+            android:summary="@string/pref_lineman_summary"
+            android:title="@string/pref_lineman" />
+        <Preference android:key="prefClearAll"
+            android:summary="@string/pref_clearAll_summary"
+            android:title="@string/pref_clearAll" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

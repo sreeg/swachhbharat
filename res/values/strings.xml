@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swachh Bharat</string>
+    <string name="action_settings">Settings</string>
+    <string name="confirmationmessage">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="proceed">Proceed</string>
+    <string name="are_you_sure_you_want_to_leave_gis_">Are you sure you want to leave the Application ?</string>
+    <string name="leave_application_">Leave application ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="GPSAlertDialogTitle">GPS is setting</string>
+    <string name="GPSAlertDialogMessage">GPS is not enabled. Do you want to go to setting menu</string>
+    <string name="settings">Settings</string>
+    <string name="latitude">Latitude : </string>
+    <string name="longitude">Longitude : </string>
+    <string name="country">Country : </string>
+    <string name="city">City : </string>
+    <string name="postalCode">Postal Code : </string>
+    <string name="addressLine">Address Line : </string>
+    <string name="pref_user_profile_settings">Settings</string>
+    <string name="pref_lineman_summary">Select the line man id to see the valve ids.</string>
+    <string name="pref_lineman">Select Lineman Id</string>
+    <string name="pref_clearAll">Clear Settings</string>
+    <string name="pref_clearAll_summary">Clear all Settings and reset data.</string>
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="facebook_app_id">821118597945017</string>
+    <string name="update_status">Update Status</string>
+    <string name="post_image">Post Image</string>
+    <string name="connectwithFB">Connect with Facebook</string>
+    <string name="connectwithGPlus">"Connect with Google+"</string>
+    <string name="btn_add_a_owned_location">Add a location</string>
+    <string name="no_locations_found_click_the_add_location_button_to_own_a_location_you_woud_like_to_clean_and_keep_clean_">No Locations Found. Click the add location button to own a location you woud like to clean and keep clean.</string>
+    <string name="save_area">Save Area</string>
+    <string name="area_name_">"Area name : "</string>
+    <string name="share_on_g_">Share on G+</string>
+    <string name="share_on_fb">Share on FB</string>
+    <string name="maplogo">MapLogo</string>
+</resources>
